@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://github.com/meena108/meena108/blob/main/ndbfnd.PNG?raw=true" alt="Meena Chand" width="250" style="border-radius: 50%;">
-</p>
-
-👋 Hello everyone, It's me **Meena Chand (Madhuri Radhika Devi Dasi)**!
-
-### 🏆 Who am I?
-...
 
 🙏 Hello everyone, It's me **Meena Chand (Madhuri Radhika Devi Dasi)**! 👋
 
@@ -23,8 +15,14 @@
 
 🔗 **My Portfolio**: [meena108.github.io/about](https://meena108.github.io/about)
 
-📬 **Let's Get Connected!**
+## 📬 Let's Get Connected!
 
-[![Gmail Badge](https://img.shields.io/badge/Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenahgmd@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meena-chand)
-
+<p align="left">
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/meena-chand-74805a214/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>

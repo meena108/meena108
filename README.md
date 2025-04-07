@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @meena108
-- 👀 I’m interested in coding and learning new ideas.
-- 🌱 I’m currently learning flutter and web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me /Email me
+🙏 Hello everyone, It's me Meena Chand(Madhuri Radhika Devi Dasi)! 👋
 
-<!---
-meena108/meena108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏆 Who am I?
+🌍 International Student Life Digital Ambassador – 2024 | University of Wolverhampton
+👩‍💻 Software Developer – 2024 to Present | Satrex Limited, UK
+🎓 President – Cambridge Wolves Society – 2024 | University of Wolverhampton
+💻 Member – British Computer Society, UK
+🧠 IBM GSE UK CTF Winner – 2024
+🏅 GEE Student Awards for Tech and Leadership – 2025 | University of Oxford, Ashmolean Museum
+🖥️ Aspiring Mainframer
+🏥 Currently working at NHS, UK – 2025
+🌐 Web Developer | Shealth Company, UK
+
+🔗 My Portfolio: meena108.github.io/about

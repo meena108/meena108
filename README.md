@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github.com/meena108/meena108/blob/main/ndbfnd.PNG?raw=true" alt="Meena Chand" width="250" style="border-radius: 50%;">
+</p>
+
+👋 Hello everyone, It's me **Meena Chand (Madhuri Radhika Devi Dasi)**!
+
+### 🏆 Who am I?
+...
+
 🙏 Hello everyone, It's me **Meena Chand (Madhuri Radhika Devi Dasi)**! 👋
 
 ### 🏆 Who am I?

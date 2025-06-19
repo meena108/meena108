@@ -10,7 +10,7 @@
 - 🧠 **IBM GSE UK CTF Winner – 2024**
 - 🏅 **GEE Student Awards for Tech and Leadership – 2025** | *University of Oxford, Ashmolean Museum*
 - 🖥️ **Aspiring Mainframer**
-- 🏥 **Currently working at NHS, UK – 2025**
+- 🏥 **Technical Solution Architect at Essist(IBM-iUG), UK – 2025**
 - 🌐 **Web Developer** | *Shealth Company, UK*
 
 🔗 **My Portfolio**: [meena108.github.io/about](https://meena108.github.io/about)

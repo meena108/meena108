@@ -9,7 +9,7 @@
 - 💻 **Member – British Computer Society**, UK
 - 🧠 **IBM GSE UK CTF Winner – 2024**
 - 🏅 **GEE Student Awards for Tech and Leadership – 2025** | *University of Oxford, Ashmolean Museum*
-- 🖥️ **Aspiring Mainframer**
+- 🖥️ **Mentee for COBOL Crisis - The Linux Foundation(The Open Mainframe Project)**
 - 🏥 **Technical Solution Architect at Essist(IBM-iUG), UK – 2025**
 - 🌐 **Web Developer** | *Shealth Company, UK*
 
